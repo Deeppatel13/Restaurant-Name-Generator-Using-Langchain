@@ -43,4 +43,6 @@ Visit "https://console.groq.com/playground" --> Login --> Go to "API Keys" optio
 
 <img src="Screenshot%202025-02-27%20230404.jpg" alt="App Screenshot 2" width="900" height="500">
 
+**References** - 
 
+* YouTube video - "https://youtu.be/nAmC7SoVLd8?si=c2MLCfkUCUf4KoKO"
