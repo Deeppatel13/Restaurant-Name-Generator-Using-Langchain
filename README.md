@@ -32,3 +32,11 @@ The Restaurant Name Generator is a simple web application that suggests unique r
 * The LLaMA model processes the request and generates a restaurant name along with relevant menu items.
 
 * The suggested name and menu items are displayed on the right side of the interface.
+
+**Snapshots of the Project**
+
+![App Screenshot](Screenshot 2025-02-27 230120.jpg)
+
+![App Screenshot](Screenshot 2025-02-27 230404.jpg)
+
+
