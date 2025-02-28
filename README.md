@@ -23,6 +23,10 @@ The Restaurant Name Generator is a simple web application that suggests unique r
 
 * LLM API: Groq API (LLaMA model)
 
+**How to get GROQ API Key?**
+
+Visit "https://console.groq.com/playground" --> Login --> Go to "API Keys" option on the left --> Select "Create API Key" --> Give a key name --> Save the API Key somewhere (It won't be display again after this) --> Use this key in "secret_key.py" file.
+
 **How It Works** - 
 
 * The user selects a nationality from the picker on the left side.
@@ -35,8 +39,8 @@ The Restaurant Name Generator is a simple web application that suggests unique r
 
 **Snapshots of the Project**
 
-![App Screenshot](Screenshot 2025-02-27 230120.jpg)
+<img src="Screenshot%202025-02-27%20230120.jpg" alt="App Screenshot 1" width="900" height="500">
 
-![App Screenshot](Screenshot 2025-02-27 230404.jpg)
+<img src="Screenshot%202025-02-27%20230404.jpg" alt="App Screenshot 2" width="900" height="500">
 
 
